@@ -1,4 +1,6 @@
-                                                          Network Security Project-Stanford University
+                                                  
+Network Security Project-Stanford University
+
 INTRODUCTION:
  In this project, an exploitation is performed on a vulnerable network infrastructure and network servives. It includes exploitation of FTP, SSH and SMB services using industry-standard exploits. A comprehensive final report is submitted on the vulnerabilties in the given vulnerable network infratsructure virtual machine.
 
