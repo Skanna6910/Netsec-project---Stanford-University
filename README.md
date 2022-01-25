@@ -16,6 +16,18 @@ OVERVIEW:
   ◘ Service-based and operating system scanning
   
   ◘ Nmap script-based scanning technique
+  
+EXPLOITATIONS EXECUTION: The below exploitations were carried out on the identified network services containing vulnerabilities:
+ 
+  ◘ Security research techniques
+  
+  ◘ Optimizing payloads
+  
+  ◘ Metasploit based exploitation
+  
+  ◘ Reverse shell and meterpreter shell
+  
+  ◘ Server compromise and Remote code execution
 
 LEARNING OUTCOME & MACHINES USED: 
  As a result, I was able to perform various techniques of network-based vulnerability assessment and penetration testing. They will be able to exploit vulnerable services and/or configuration using various tools. Machines used were:
